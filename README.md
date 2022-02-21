@@ -1,8 +1,5 @@
-# wMotherloadv0.5
+Start the Script in the centre of Motherload Mine.
 
-TODO:
-
-V0.06>
- - Add DPick Spec - Must have pick equipped
- - Big Sack support
- - Multiple Break Settings
+Ensure Sack and Hopper are Empty.
+Ensure Pickaxe is in Inventory or Equipped.
+Press Play
